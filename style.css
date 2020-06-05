@@ -1,0 +1,36 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;    
+background-color: rgb(212, 129, 129); color: whitesmoke;
+background-size: cover;
+}
+.firts{ 
+font-size: 40px; color: whitesmoke  ;
+width: 500px;
+position: absolute;
+top: 40%;
+left: 50% ;
+transform: translate(-50%, -50%);
+}
+.second{
+  display: flex;
+  flex-direction: row; flex-wrap: wrap; 
+  justify-content: center;
+    font-size: 20px; color: whitesmoke ;
+    position: absolute ; top :60%;
+   text-align: center; 
+}
+.itemiii{ justify-content: center; border-left:  solid oldlace 1px ;   
+}
+.itemii{ justify-content: center; border-left:  solid oldlace 1px ;
+}     
+.haut{ text-align: right; margin: 5px; color: whitesmoke; padding: 20px;
+      text-decoration: none; border-bottom: solid oldlace 1px;
+}
+.bas{ width: 50px; top: 90%; left: 50%; border: cyan solid ; text-align: center; color: cyan ;
+      border-radius: 15px; width: 100px; height: 30px; position: absolute; text-transform: capitalize;
+}
+.i .ii .iii { font-size: 20px; text-align: center;
+}
+a:link{ text-decoration: none; font-size: 20px; text-decoration-color: lavenderblush; text-size-adjust: 20px;
+ }
+
