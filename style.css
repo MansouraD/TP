@@ -16,22 +16,21 @@ transform: translate(-50%, -50%);
   position: absolute ; top :60%; left: 50%; 
   text-align: center; transform: translate( -50%);
 }
-.itemiii{border-left:  solid oldlace 1px ; margin-left : 40px; 
+.itemiii{border-left:  solid oldlace 1px ; margin-left : 40px; padding-left: 40px;
 }
-.itemii{border-left:  solid oldlace 1px ; margin-left: 50px; margin-right : 40px; 
+.itemii{border-left:  solid oldlace 1px ; margin-left: 40px; margin-right : 20px; padding-left : 60px;
 }
-.itemi{ margin-right : 40px;  
+.itemi{ margin-right : 20px;  
 
 }
 .haut{ text-align: right; margin: 5px; color: whitesmoke;
       text-decoration: none; border-bottom: solid oldlace 1px;
 }
 .bas{ top: 90%; left: 50%; border: rgb(29, 151, 151) solid ;  color: rgb(38, 138, 138) ; transform: translate( -50%);
-      border-radius: 15px; width: 130px; height: 30px; position: absolute; text-transform: uppercase; 
+      border-radius: 15px; width: 130px; height: 30px; position: absolute; text-transform: uppercase; padding-top: 6px; padding-left:4px; 
 }
 .i .ii .iii { font-size: 20px; text-align: center;
 }
-a:link{ text-decoration: none; font-size: 15px; color: blanchedalmond; padding : 10px; 
+a:link{ text-decoration: none; font-size: 15px; color: whitesmoke; padding : 10px; 
 }
-
 
