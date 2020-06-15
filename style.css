@@ -31,7 +31,7 @@ transform: translate(-50%, -50%);
 }
 a:link{ text-decoration: none; font-size: 15px; color: whitesmoke; padding : 10px; margin-bottom: 3px; block-size: 2px;       
 }
-a:hover { color: hotpink ;
+a:hover { color: hotpink ; background-color: whitesmoke;
 }
 .fa{ color:rgb(58, 221, 126);  font-size: 26px; padding-bottom: 8px;
 }
